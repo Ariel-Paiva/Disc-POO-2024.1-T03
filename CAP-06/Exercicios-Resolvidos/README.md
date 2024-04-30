@@ -1,4 +1,6 @@
 # Exercícios resolvidos do Capítulo 6
+Lista dos enunciados das questões que estão presentes neste repositório.
+
 |Questão|Enunciado|
 |-------|---------|
 |1|Faça um programa que preencha um vetor com nove números inteiros, calcule e mostre os números primos e suas respectivas posições.|
