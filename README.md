@@ -12,7 +12,7 @@
 - [Kauã Sousa](https://github.com/kkauaon)
   
 ## Repositório
-Neste repositório, há as soluções dos exercícios resolvidos (25+25) do Capítulo 6 (Vetor) e 8 (Sub-rotina) do livro "Fundamentos da Programação de Computadores".
+Neste repositório, há as soluções dos exercícios resolvidos do Capítulo 6 (Vetor) e 8 (Sub-rotina) do livro "Fundamentos da Programação de Computadores".
 
 Esses exercícios compõem o Trabalho 03 da disciplina de Programação Orientada a Objetos no semestre 2024.1 com o professor [Roger Sarmento](https://github.com/rogermsarmento)
 
